@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">AI Software Engineer | Python Backend Developer | Building AI-powered Applications</h3>
+<h3 align="center">AI Software Engineer | Python Backend Developer | Building AI-powered Applications</h3><br><br>
 
 💡 Passionate about building **AI-powered backend systems and intelligent applications**.
 
@@ -8,11 +8,26 @@
 🧠 Currently exploring **Generative AI, Retrieval-Augmented Generation (RAG), and scalable backend architecture**.
 
 🌍 Open to **AI Engineer / Backend Engineer opportunities globally (Remote friendly)**.
-# 💫 About Me:
+<h3 align="center"> 💫 About Me </h3><br><br>
 🔭 I’m currently working on: AI-powered backend systems, GenAI integrations, and scalable APIs using Python (FastAPI/Flask)<br><br>🤝 I’m looking to collaborate on: Open-source AI tools, LLM-powered applications, and backend infrastructure projects<br><br>🛠 I’m looking for help with: Advanced LLM deployment, vector databases, and building production-ready AI systems<br><br>🌱 I’m currently learning: System Design, FastAPI architecture, LLM pipelines (RAG), and scalable backend engineering<br><br>💬 Ask me about: Python, FastAPI, Flask, backend APIs, LLM integrations, and building AI applications<br><br>⚡ Fun fact: I enjoy turning complex AI ideas into real working backend systems.
 
+<h3 align="center">  🚀 Featured Projects </h3><br><br>
 
-## 🌐 Socials:
+📊 **Stock Advisor (AI-powered stock insights)**
+- Python + Flask backend
+- AI market analysis
+- Data visualization and predictions
+
+🚗 **Vehicle Tracking System**
+- Backend system for vehicle and driver management
+- Analytics dashboard
+- Real-time tracking logic
+
+🤖 **LLM-powered Applications**
+- Integrated HuggingFace models
+- Built NLP pipelines and AI-powered APIs
+
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityajannawar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityajannawar249@gmail.com) 
 
 # 💻 Tech Stack:
