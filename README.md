@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">AI Software Engineer | Python Backend Developer | Building AI-powered Applications</h3><br><br>
+<h3 align="center">AI Software Engineer | Python Backend Developer | Building AI-powered Applications</h3><br>
 
 💡 Passionate about building **AI-powered backend systems and intelligent applications**.
 
@@ -9,10 +9,10 @@
 
 🌍 Open to **AI Engineer / Backend Engineer opportunities globally (Remote friendly)**.
 <br>
-## 💫 About Me 
+# 💫 About Me 
 🔭 I’m currently working on: AI-powered backend systems, GenAI integrations, and scalable APIs using Python (FastAPI/Flask)<br><br>🤝 I’m looking to collaborate on: Open-source AI tools, LLM-powered applications, and backend infrastructure projects<br><br>🛠 I’m looking for help with: Advanced LLM deployment, vector databases, and building production-ready AI systems<br><br>🌱 I’m currently learning: System Design, FastAPI architecture, LLM pipelines (RAG), and scalable backend engineering<br><br>💬 Ask me about: Python, FastAPI, Flask, backend APIs, LLM integrations, and building AI applications<br><br>⚡ Fun fact: I enjoy turning complex AI ideas into real working backend systems.
 <br>
-##  🚀 Featured Projects 
+#  🚀 Featured Projects 
 
 📊 **Stock Advisor (AI-powered stock insights)**
 - Python + Flask backend
