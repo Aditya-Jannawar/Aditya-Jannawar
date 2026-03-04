@@ -38,9 +38,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Aditya-Jannawar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Jannawar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&theme=tokyonight&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&theme=tokyonight&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aditya-Jannawar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
